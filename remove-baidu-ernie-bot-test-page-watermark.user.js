@@ -5,6 +5,8 @@
 // @namespace    remove-baidu-ernie-bot-test-page-watermark
 // @version      0.1.3
 // @description  Why do they put watermark on garbage?
+// @description:zh-cn 为什么他们要在垃圾上加水印？
+// @description:en Why do they put watermark on garbage?
 // @author       Bing Chat & Me
 // @match        https://yiyan.baidu.com/
 // @grant        none
