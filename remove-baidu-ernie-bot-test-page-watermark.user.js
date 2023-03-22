@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         移除百度文心一言测试页水印 Remove Baidu ERNIE Bot Test Page Watermark
-// @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @name:en      Remove Baidu ERNIE Bot Test Page Watermark
+// @name:zh-CN   移除百度文心一言测试页水印
+// @namespace    remove-baidu-ernie-bot-test-page-watermark
+// @version      0.1.3
 // @description  Why do they put watermark on garbage?
 // @author       Bing Chat & Me
 // @match        https://yiyan.baidu.com/
